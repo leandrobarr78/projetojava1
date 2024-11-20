@@ -1,5 +1,7 @@
 package curso.java.leandro;
 
+import java.sql.Date;
+
 public class Pessoa {
 	
 	
